@@ -4,7 +4,7 @@ This project implements and visualizes the **Birkhoff–von Neumann decompositio
 
 ---
 
-## 🔍 What is Birkhoff Decomposition?
+## 🔍 What is Birkhoff Decomposition ?
 
 Given a matrix where:
 - Each row and column sums to 1
