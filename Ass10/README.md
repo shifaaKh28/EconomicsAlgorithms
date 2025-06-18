@@ -3,7 +3,7 @@
 
 This project solves assignment questions related to the Equal Shares method from Participatory Budgeting.
 
-Specifically, we addressed:
+Specifically, we addressed :
 - **Section A** — Demonstrating non-monotonicity (increasing the committee size from k to k+1 causes previously selected candidates to drop out).
 - **Section B** — Demonstrating non-monotonicity **without relying on tie-breaking** (there’s always a unique cheapest candidate at each selection step).
 
