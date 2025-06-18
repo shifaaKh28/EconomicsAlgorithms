@@ -1,6 +1,6 @@
 # Fair Budget Allocation – Assignment 12, Question 5
 
-This project implements **two algorithms** to compute a fair and truthful budget allocation using the **Generalized Median Mechanism (GMM)** with linear fixed votes, based on Lecture 12.
+This project implements **two algorithms** to compute a fair and truthful budget allocation using the **Generalized Median Mechanism (GMM)** with linear fixed votes, based on Lecture 12 .
 
 ---
 
