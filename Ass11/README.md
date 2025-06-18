@@ -10,7 +10,7 @@ This Python script provides a solution to the problem of determining whether a g
 
 In **participatory budgeting**, a set of agents vote on a set of topics (projects). A total budget is given and already allocated to each topic. We want to verify whether this allocation is **decomposable**, meaning it can be explained by fair and rational contributions from the agents.
 
-### 🔍 What Is a Decomposable Budget?
+### 🔍 What Is a Decomposable Budget ?
 
 A budget allocation is *decomposable* if:
 
