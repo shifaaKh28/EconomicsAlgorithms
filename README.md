@@ -3,16 +3,6 @@
 This repository contains assignments and implementations from the *Economic Algorithms* course.  
 Each folder represents a different assignment, including algorithmic solutions, examples, and related documentation.
 
-## 📂 Repository Structure
-
-| Folder | Description |
-|--------|-------------|
-| `Ass7` | Assignment 7 — Algorithms for fair division with monetary compensation (envy-free pricing, maximum weight matching). |
-| `Ass9` | Assignment 9 — Randomized fair division (lotteries, truthfulness, and proportionality). |
-| `Ass10` | Assignment 10 — Public goods selection with budget constraints (Equal Shares, Nash welfare). |
-| `Ass11` | Assignment 11 — Auctions and VCG mechanisms, dominant strategies and incentive compatibility. |
-| `Ass12` | Assignment 12 — Combinatorial optimization and applications of LP (Linear Programming) in allocation. |
-
 ## 🔧 Technologies Used
 
 - Python 3  
