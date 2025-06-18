@@ -1,6 +1,6 @@
 # Maximum Mean Cycle in Directed Graph
 
-This project implements an algorithm to find the **cycle with the maximum average (mean) weight** in a **directed graph**.
+This project implements an algorithm to find the **cycle with the maximum average (mean) weight** in a **directed graph** .
 
 ---
 
