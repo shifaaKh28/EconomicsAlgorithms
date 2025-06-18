@@ -21,11 +21,6 @@ Economic Algorithms is a course that blends computer science and economics, focu
 - Auction theory
 - Resource allocation
 
-## 👩‍💻 Author
-
-Shifaa Khatib  
-📧 [shifaakhatib28@gmail.com](mailto:shifaakhatib28@gmail.com)  
-🔗 [GitHub Profile](https://github.com/shifaaKh28)
 
 ---
 
