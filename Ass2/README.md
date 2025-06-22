@@ -61,6 +61,7 @@ python egalitarian_allocation.py
 ---
 
 ## 📊 Example Runs and Explanation
+![image_alt](https://github.com/shifaaKh28/EconomicsAlgorithms/blob/main/Ass2/Screenshot%202025-06-22%20182002.png)
 
 ---
 
